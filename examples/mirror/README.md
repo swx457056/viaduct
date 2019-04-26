@@ -1,6 +1,7 @@
 # How to Run
 # Testing bot
 # testing
+# bottttttttttttttttttt Test
 #bot TEsting
     cd examples/mirror
     go build
