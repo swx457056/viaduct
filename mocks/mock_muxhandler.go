@@ -22,6 +22,8 @@
 //+8
 //test12
 //test13
+//+9
+//+10
 package mocks
 
 import (
