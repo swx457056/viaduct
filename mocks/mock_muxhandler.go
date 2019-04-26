@@ -2,7 +2,7 @@
 // Source: github.com/kubeedge/viaduct/pkg/mux (interfaces: Handler)
 
 // Package mocks is a generated GoMock package.
-
+// testing viaduct bot
 //test viaduct
 //one more test
 //add test
