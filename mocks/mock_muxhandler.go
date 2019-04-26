@@ -2,6 +2,8 @@
 // Source: github.com/kubeedge/viaduct/pkg/mux (interfaces: Handler)
 
 // Package mocks is a generated GoMock package.
+
+//test viaduct
 package mocks
 
 import (
