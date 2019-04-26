@@ -17,6 +17,7 @@
 //+4
 //+5
 //+6
+//+7
 package mocks
 
 import (
