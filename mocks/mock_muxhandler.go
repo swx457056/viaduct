@@ -4,6 +4,7 @@
 // Package mocks is a generated GoMock package.
 // testing viaduct bot
 //test viaduct
+//+!!!
 //test +1
 //Source to test
 //one more test
@@ -12,6 +13,7 @@
 //+test
 //add test
 //testing
+//++++
 //+0
 //+1
 //+2
