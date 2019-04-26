@@ -3,6 +3,7 @@
 # testing
 # bottttttttttttttttttt Test
 # testinggggggggggggggg bottttttttttttttttt
+#test botttttttttttttttttttttttttttttttttt
 #bot TEsting
     cd examples/mirror
     go build
