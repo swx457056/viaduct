@@ -1,6 +1,7 @@
 # How to Run
 #test the viaduct
 #how to run viaduct
+#runing the test
 #Run the viaduct
 #testinggggggggggggggggggggggggg
 # to test botttttttttttttttt
@@ -11,6 +12,7 @@
 #test test
 # testing sample
 #test botttttttttttttttttttttttttttttttttt
+#TEST01
 #sample testing
 #bot TEsting
     cd examples/mirror
