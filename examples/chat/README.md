@@ -3,6 +3,7 @@
 # Generate Certificates 
 #rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 #^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+# sssssssssssssssssssssssss
 # test example
 #!!!!!!!!!!!!!!!!!!!!
 ca certificate and a cert/key pair is required to have a setup for examples/chat. Same cert/key pair can be used in both server and client.
